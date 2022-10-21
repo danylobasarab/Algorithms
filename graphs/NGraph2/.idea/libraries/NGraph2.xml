@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NGraph2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/NGraph2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
